@@ -1,9 +1,13 @@
-# 👋 Hey, ich bin kleingeldfach
+# 👋 Hey, I'm [kleingeldfach](https://github.com/vvnccc)
 
 🚀 Backend Developer • 🤖 Bot Developer • ⚙️ System Builder
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&width=600&lines=Backend+Developer;Discord+Bot+Developer;Building+Systems+%26+Automation;Working+on+OVENTION" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vvnccc&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -17,23 +21,23 @@
 
 ## 🧠 About Me
 
-Ich bin ein **fortgeschrittener Backend & Bot Developer**, der sich auf
-skalierbare Systeme, Automationen und Server-Tools spezialisiert hat.
+I'm an **advanced Backend & Bot Developer** focused on building
+scalable systems, automation, and server tools.
 
-Mein Fokus liegt auf:
+Main focus:
 
-* 🤖 Entwicklung von **Discord Bots**
-* 🧩 Aufbau von **sauberen Backend-Systemen**
-* ⚙️ Infrastruktur & Automatisierung
-* 🎮 Entwicklung rund um **Minecraft Server**
+* 🤖 Building **Discord Bots**
+* 🧩 Designing **clean backend architectures**
+* ⚙️ Infrastructure & automation
+* 🎮 Minecraft server development
 
 ---
 
-## 🚀 Aktuelles Projekt
+## 🚀 Current Project
 
 ### ⚡ OVENTION
 
-Ein Minecraft-Projekt mit Fokus auf **Performance, Struktur und Skalierbarkeit**.
+A Minecraft project focused on **performance, structure, and scalability**.
 
 ---
 
@@ -56,32 +60,6 @@ Ein Minecraft-Projekt mit Fokus auf **Performance, Struktur und Skalierbarkeit**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
-
----
-
-## 🛠️ Was ich baue
-
-* 🤖 Discord Bot Systeme
-* ⚙️ Backend Services
-* 🧩 Server Tools
-* 🎮 Minecraft Infrastruktur
-* ⚡ Automationen für Communities
-
----
-
-## 📡 Aktuell Fokus
-
-* Backend Architektur
-* Bot Systeme verbessern
-* Performance Optimierung
-* Skalierbare Systeme bauen
-
----
-
-## 👤 Profile
-
-* 💻 GitHub: https://github.com/vvnccc
-* 💬 Discord: kleingeldfach
 
 ---
 
