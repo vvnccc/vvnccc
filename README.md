@@ -8,6 +8,13 @@
 
 ---
 
+## 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vvnccc)
+[![Discord](https://img.shields.io/badge/-kleingeldfach-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
+
+---
+
 ## 🧠 About Me
 
 Ich bin ein **fortgeschrittener Backend & Bot Developer**, der sich auf
@@ -20,64 +27,66 @@ Mein Fokus liegt auf:
 * ⚙️ Infrastruktur & Automatisierung
 * 🎮 Entwicklung rund um **Minecraft Server**
 
-Aktuell arbeite ich an meinem Projekt:
+---
 
-### 🚀 OVENTION
+## 🚀 Aktuelles Projekt
 
-Ein Minecraft-Projekt mit Fokus auf Struktur, Performance und Erweiterbarkeit.
+### ⚡ OVENTION
+
+Ein Minecraft-Projekt mit Fokus auf **Performance, Struktur und Skalierbarkeit**.
 
 ---
 
 ## ⚡ Tech Stack
 
-**Languages**
+### 🧠 Languages
 
-* Python
-* JavaScript
-* Java
-* Rust
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,rust" />
+</p>
 
-**Backend & Databases**
+### 🗄️ Databases
 
-* MySQL
-* PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-**Infrastructure**
+### ⚙️ Tools & Infrastructure
 
-* Docker
-* Server Systems
-* Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+</p>
 
 ---
 
 ## 🛠️ Was ich baue
 
-* Discord Bot Systeme
-* Server Tools
-* Backend Services
-* Minecraft Infrastruktur
-* Automationen für Communities
+* 🤖 Discord Bot Systeme
+* ⚙️ Backend Services
+* 🧩 Server Tools
+* 🎮 Minecraft Infrastruktur
+* ⚡ Automationen für Communities
 
 ---
 
-## 📡 Aktuell aktiv in
+## 📡 Aktuell Fokus
 
-* Bot Entwicklung
 * Backend Architektur
-* Minecraft Server Development
-* System Design
+* Bot Systeme verbessern
+* Performance Optimierung
+* Skalierbare Systeme bauen
 
 ---
 
 ## 👤 Profile
 
-**GitHub:** https://github.com/vvnccc
-**Discord:** kleingeldfach
+* 💻 GitHub: https://github.com/vvnccc
+* 💬 Discord: kleingeldfach
 
 ---
 
 <div align="center">
 
-Building systems instead of just code ⚡
+⚡ Building systems instead of just code ⚡
 
 </div>
