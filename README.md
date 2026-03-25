@@ -35,11 +35,11 @@ Main focus:
 
 ## 🚀 Current Projects
 
-### ⚡ [OVENTION](https://discord.ovention.de)
+### ⚡ [OVENTION](https://github.com/ovention)
 
 A Minecraft project focused on **performance, structure, and scalability**.
 
-### 🔩 [PrimeCityRP](https://discord.primecity.space)
+### 🔩 [PrimeCityRP](https://github.com/primecity-rp)
 
 A Emergency Hamburg RP Server focused on **professionalism and modernity**
 
