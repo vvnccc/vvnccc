@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [kleingeldfach](https://github.com/vvnccc)
+# 👋 Hey there, I'm [kleingeldfach](https://github.com/vvnccc)
 
 🚀 Backend Developer • 🤖 Bot Developer • ⚙️ System Builder
 
@@ -33,11 +33,15 @@ Main focus:
 
 ---
 
-## 🚀 Current Project
+## 🚀 Current Projects
 
-### ⚡ OVENTION
+### ⚡ [OVENTION](https://discord.ovention.de)
 
 A Minecraft project focused on **performance, structure, and scalability**.
+
+### 🔩 [PrimeCityRP](https://discord.primecity.space)
+
+A Emergency Hamburg RP Server focused on **professionalism and modernity**
 
 ---
 
